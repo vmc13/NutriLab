@@ -1,6 +1,6 @@
 # :woman_health_worker: NutriLab - App de gestão de pacientes para Nutricionistas :man_health_worker:
 
- Realizada durante a PyStackWeek do Pythonando, com foco na aprendizagem do framework **Django**
+ Realizada durante a PyStackWeek do Pythonando, com foco na __aprendizagem__ do framework **Django**
  
  ## :globe_with_meridians: Aplicação web desenvolvida em django
  :warning: Comandos de criação e ativação de virtual enviroments direcionados para usuários de **Windows** :warning:
