@@ -8,13 +8,13 @@
 ```
 virtualenv myenv 
 ```
+### Ative o ambiente criado
+```
+myenv\Scripts\Activate
+```
 ### Instale o pacote Django
 ```
 pip install django
-```
-### Ative a venv
-```
-myenv\Scripts\Activate
 ```
 ### Rode o projeto
 ```
